@@ -1,3 +1,7 @@
+# Active Edge
+PRODUCT_PACKAGES += \
+    ElmyraService
+
 # Bluetooth
 PRODUCT_PACKAGES += \
     com.qualcomm.qti.bluetooth_audio@1.0 \
